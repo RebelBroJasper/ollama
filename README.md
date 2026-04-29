@@ -1,5 +1,3 @@
-# 🖤 Predator-Termux Rebel Setup
-
 # 🖤 Predator-Termux RebelBroJasper Setup
 
 **Phone in your hand. RTX 5070 Ti on your desk. Local AI under your control.**
