@@ -1,17 +1,17 @@
 # 🖤 Predator-Termux Rebel Setup
 
-**Phone in your hand. RTX 5070 Ti in your pocket. Fuck the cloud.**
+# 🖤 Predator-Termux RebelBroJasper Setup
+
+**Phone in your hand. RTX 5070 Ti on your desk. Local AI under your control.**
 
 ## Why this slaps
-- You type on phone
-- RTX does the thinking
-- No data leaves your house
-- No OpenAI safety lobotomy
-- Full uncensored 30B+ models in your pocket
+
+- You type on your Xiaomi through Termux
+- Your Predator RTX does the heavy thinking
+- Local-first: your prompts stay on your own hardware
+- No cloud dependency unless you choose it
+- 30B+ local models controlled from your pocket
 
 ## Setup
 
-### 1. Predator (one-time)
-```bash
-sudo apt install openssh-server -y
-sudo systemctl enable --now ssh
+Coming soon.
